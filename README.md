@@ -4,6 +4,7 @@ This project utilizes Flutter for cross-platform mobile development, enabling se
 Note:
 The file ASLAPP.apk is the apk version of the app however there are chances that it won't work properly due to the reason that
 the model size was too big to upload (actual Size 1.5GB)
+Model is also not available in the project zip file attached to the Google form.
 
 
 
